@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\Exercise #1\Missing Element\Missing Element\obj\Debug\Missing Element.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Exercise #1\Missing Element\Missing Element\obj\Debug\Missing Element.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Exercise #1\Missing Element\Missing Element\bin\Debug\Missing Element.exe.config
+C:\Users\fesolano\Desktop\Exercise #1\Missing Element\Missing Element\bin\Debug\Missing Element.exe
+C:\Users\fesolano\Desktop\Exercise #1\Missing Element\Missing Element\bin\Debug\Missing Element.pdb
+C:\Users\fesolano\Desktop\Exercise #1\Missing Element\Missing Element\obj\Debug\Missing Element.exe
+C:\Users\fesolano\Desktop\Exercise #1\Missing Element\Missing Element\obj\Debug\Missing Element.pdb

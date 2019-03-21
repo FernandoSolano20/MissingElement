@@ -1,0 +1,14 @@
+C:\Users\fesolano\Desktop\Exercise #1\MissingElement2\MissingElement2\bin\Debug\MissingElement2.exe.config
+C:\Users\fesolano\Desktop\Exercise #1\MissingElement2\MissingElement2\bin\Debug\MissingElement2.exe
+C:\Users\fesolano\Desktop\Exercise #1\MissingElement2\MissingElement2\bin\Debug\MissingElement2.pdb
+C:\Users\fesolano\Desktop\Exercise #1\MissingElement2\MissingElement2\obj\Debug\MissingElement2.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Exercise #1\MissingElement2\MissingElement2\obj\Debug\MissingElement2.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Exercise #1\MissingElement2\MissingElement2\obj\Debug\MissingElement2.exe
+C:\Users\fesolano\Desktop\Exercise #1\MissingElement2\MissingElement2\obj\Debug\MissingElement2.pdb
+C:\Users\luisf\Desktop\Exercise #1-20190312T041424Z-001\Exercise #1\MissingElement2\MissingElement2\bin\Debug\MissingElement2.exe.config
+C:\Users\luisf\Desktop\Exercise #1-20190312T041424Z-001\Exercise #1\MissingElement2\MissingElement2\bin\Debug\MissingElement2.exe
+C:\Users\luisf\Desktop\Exercise #1-20190312T041424Z-001\Exercise #1\MissingElement2\MissingElement2\bin\Debug\MissingElement2.pdb
+C:\Users\luisf\Desktop\Exercise #1-20190312T041424Z-001\Exercise #1\MissingElement2\MissingElement2\obj\Debug\MissingElement2.csprojResolveAssemblyReference.cache
+C:\Users\luisf\Desktop\Exercise #1-20190312T041424Z-001\Exercise #1\MissingElement2\MissingElement2\obj\Debug\MissingElement2.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Exercise #1-20190312T041424Z-001\Exercise #1\MissingElement2\MissingElement2\obj\Debug\MissingElement2.exe
+C:\Users\luisf\Desktop\Exercise #1-20190312T041424Z-001\Exercise #1\MissingElement2\MissingElement2\obj\Debug\MissingElement2.pdb
